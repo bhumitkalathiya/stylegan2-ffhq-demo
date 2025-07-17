@@ -18,3 +18,6 @@ Images in `/generated-images` folder
 ## Future Work:
 - Train on a custom dataset (e.g., dogs, anime)
 - Explore truncation trick, latent vector interpolation
+
+
+this is testing
